@@ -1,1 +1,1 @@
-Simple Calculator Contract 
+Simple Calculator Contract in Solidity
